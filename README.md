@@ -15,7 +15,11 @@
 
         - Khởi động vnc.
 
-        - Dừng lại vnc. 
+        - Dừng lại vnc.
+
+Đây là một bash được code bởi ngôn ngữ lập trình python,  mục đích của nó là làm ngắn lại quá trình tạo dựng. 
+
+Để biết thêm chi tiết, vui lòng vào đây: https://github.com/adi1090x/termux-desktop
         
 - Updated and added to Github
 
@@ -34,3 +38,8 @@
          - Start vnc.
 
          - Stop vnc.
+
+
+This is a bash coded by the python programming language, its purpose is to shorten the construction process.
+
+For more details, please go here: https://github.com/adi1090x/termux-desktop
