@@ -1,7 +1,7 @@
 # Termux_Desktop
-- Updated and added to Github
+**- Updated and added to Github**
 
-- Function:
+**- Function:**
 
      1. Termux-Desktop:
 
@@ -39,11 +39,11 @@ This is a bash coded by the python programming language, its purpose is to short
 
 For more details, please go here: https://github.com/adi1090x/termux-desktop
 
-#Tiếng Việt
+**#Tiếng Việt**
 
-- Cập nhật và thêm vào Github
+**- Cập nhật và thêm vào Github
 
-- Chức năng:
+**- Chức năng:
 
     1. Termux-Desktop:
 
