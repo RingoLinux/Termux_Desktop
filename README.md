@@ -1,7 +1,7 @@
 # Termux_Desktop
-**- Updated and added to Github**
+**Updated and added to Github**
 
-**- Function:**
+**Function**
 
      1. Termux-Desktop:
 
@@ -19,19 +19,19 @@
 
 Before you get started, do this step to avoid unexpected errors.
 
-pkg update && pkg upgrade
+```pkg update && pkg upgrade```
 
 Download the Git package, if it exists, it does not need to download.
 
-pkg install git
+```pkg install git```
 
 Copy data from Gitbun to your computer.
 
-git clone https://github.com/RingoLinux/Termux_Desktop
+```git clone https://github.com/RingoLinux/Termux_Desktop```
 
 Then go to the folder you just downloaded, then import.
 
-python Termux_Desktop.py
+```python Termux_Desktop.py```
 
 Following step by step selection is to be ...
 
@@ -65,15 +65,15 @@ pkg update && pkg upgrade
 
 Tải gói Git về, nếu như đã có thì không cần tải xuống. 
 
-pkg install git
+```pkg install git```
 
 Sao chép dữ liệu từ Gitbun về máy. 
 
-git clone https://github.com/RingoLinux/Termux_Desktop
+```git clone https://github.com/RingoLinux/Termux_Desktop```
 
 Tiếp đó vào thư mục vừa tải xuống, sau đó nhập vào. 
 
-python Termux_Desktop.py
+```python Termux_Desktop.py```
 
 Tiếp theo từng bước lựa chọn là được... 
 
