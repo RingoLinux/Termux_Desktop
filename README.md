@@ -1,7 +1,7 @@
 # Termux_Desktop
 **Updated and added to Github**
 
-**Function**
+**- Function:**
 
      1. Termux-Desktop:
 
@@ -41,9 +41,9 @@ For more details, please go here: https://github.com/adi1090x/termux-desktop
 
 **#Tiếng Việt**
 
-**- Cập nhật và thêm vào Github
+**- Cập nhật và thêm vào Github**
 
-**- Chức năng:
+**- Chức năng:**
 
     1. Termux-Desktop:
 
